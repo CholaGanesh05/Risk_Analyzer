@@ -1,5 +1,3 @@
-Got it! You want a `README.md` for your **Risk Analyzer** notebook. I can create a professional, GitHub-ready README based on typical Jupyter notebook structure and usage. Here's a template you can use:
-
 ````markdown
 # Risk Analyzer
 
@@ -87,7 +85,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions, contact: **Your Name** – [email@example.com](mailto:email@example.com)
+For questions, contact: **Chola Chetan Chukkala** – [vpscholachetan24@gmail.com]
 
 ```
 
