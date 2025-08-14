@@ -87,9 +87,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions, contact: **Chola Chetan Chukkala** – [vpscholachetan24@gmail.com]
 
----
-
-I can also generate a **more detailed README** tailored to your notebook’s **actual functions, visualizations, and data processing steps** if you want.  
-
-Do you want me to extract the specifics from your `Risk_Analyzer.ipynb` and make a fully customized README?
-```
