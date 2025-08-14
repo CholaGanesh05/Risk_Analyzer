@@ -1,4 +1,4 @@
-````markdown
+
 # Risk Analyzer
 
 ## Overview
@@ -86,8 +86,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For questions, contact: **Chola Chetan Chukkala** – [vpscholachetan24@gmail.com]
-
-```
 
 ---
 
